@@ -1,5 +1,5 @@
 
-
+## Всем привет 👋
 <!--
 **ecool7/ecool7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +20,25 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV3a3FuZ3h3eHZjcTVqeWU0cWVxc2V6djFlNWt0MDdzOTZrY3R2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="300"/>
 </div>
 
-## Hi there 👋
+
+---
+
+### :woman_technologist: Обо мне  :
+
+- Меня зовут Евгений. 
+- Программирую на Python
+- Закончил МГТУ им.Н.Э. Баумана
+- Хочу стать Инженером данных (Data Engineer)
+- Мой телеграм @gubyrin
+
+---
+Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+
+
