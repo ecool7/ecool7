@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 - Мой телеграм @gubyrin
 
 ---
-Languages and Tools
-
+Инструменты
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
@@ -51,6 +50,13 @@ Languages and Tools
   
 </div>
 
+
+--- 
+### :fire: Моя статистика:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ecool7)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecool7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
