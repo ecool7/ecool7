@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - Меня зовут Евгений. 
 - Программирую на Python
 - Закончил МГТУ им.Н.Э. Баумана
-- Хочу стать Инженером данных (Data Engineer)
 - Мой телеграм @gubyrin
 
 ---
