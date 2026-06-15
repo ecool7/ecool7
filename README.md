@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app" alt="LeetCode Stats" />
-</p>
+<a href="https://leetcode.com/u/ecool7/"><img src="https://jacoblin.cool" alt="LeetCode Stats" /></a>
 
-[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/u/ecool7/)
 
 
 ### :woman_technologist: Обо мне  :
