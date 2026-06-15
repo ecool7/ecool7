@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 
 ---
-<a href="https://leetcode.com">
-  <img src="https://vercel.app" alt="LeetCode Stats" />
-</a>
-
 
 
 
