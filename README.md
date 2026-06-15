@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 
 ---
+[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/u/ecool7/)
+
 
 ### :woman_technologist: Обо мне  :
 
